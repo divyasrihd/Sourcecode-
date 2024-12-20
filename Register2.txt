@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>REGISTRATION</title>
+    <style>
+      h1{
+          color:red;
+        }
+      body
+        {
+           text-align:center;
+           border: 2px solid green;
+           height:40vh;
+           width:500px;
+
+        }
+    </style>
+  </head>
+  <body align="center"><br>
+    <h1>REGISTRATION</h1>
+    <label>Enter your name<label>
+    <input type="text"><br><br>
+    <label>Enter your mobile<label>
+    <input type="text"><br><br>
+    <label>Enter otp<label>
+    <input type="text"><br><br>
+    <button>submit</button>       
+  </body>
+</html>
